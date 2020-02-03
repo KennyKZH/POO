@@ -9,7 +9,7 @@ lo primero que tenemos que hacer es bajar el archivo
 es importante bajar el SDK por que **vamos a programar**
 
 la pagina se ve asi:
-[sadsa](./img/Imagen_01)
+[sadsa](./img/Imagen_01.jpg)
 ## Instalación y configuración de Visual Studio Code para C#.
 
 
