@@ -10,6 +10,7 @@ es importante bajar el SDK por que **vamos a programar**
 
 la pagina se ve asi:
 ![](./Imagen_01.png)
+
 Como instalar Dotnet Core 2.2
 1.-Ingresamos en nuestro navegador .NET Core
 
@@ -18,11 +19,13 @@ Como instalar Dotnet Core 2.2
 3.-En las opciones que aparecen seleccionamos Download .NET Core SDK
 
 ![](./Imagen_02.png)
+
 4.-Una vez descargado lo abrimos
 
 5.-Seleccionamos la opcion install y esperamos
 
 ![](./Imagen_03.png)
+
 6.-Cuando termine la instalacion cerramos y reiniciamos si el sistema nos lo indica
 
 Instalación y configuración de Visual Studio Code para C#
@@ -33,6 +36,7 @@ Instalación y configuración de Visual Studio Code para C#
 3.-Seleccionamos la uncica opcion de descarga
 
 ![](./Imagen_04.png)
+
 4.-Una vez descargado lo abrimos
 
 5.-Aceptamos los terminos y condiciones,damos todo siguiente hasta finalizar
