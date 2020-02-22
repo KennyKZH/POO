@@ -12,6 +12,7 @@ la pagina se ve asi:
 ![](./Imagen_01.png)
 
 Como instalar Dotnet Core 2.2
+
 1.-Ingresamos en nuestro navegador .NET Core
 
 2.-Seleccionamos el enlace de NET Core-Net-Microsoft
@@ -29,6 +30,7 @@ Como instalar Dotnet Core 2.2
 6.-Cuando termine la instalacion cerramos y reiniciamos si el sistema nos lo indica
 
 Instalación y configuración de Visual Studio Code para C#
+
 1-Ingresamos en nuestro navegador Visual Studio Code
 
 2.-Seleccionamos el enlace de Visual Studio Code - Code Editing. Redefined
@@ -42,6 +44,7 @@ Instalación y configuración de Visual Studio Code para C#
 5.-Aceptamos los terminos y condiciones,damos todo siguiente hasta finalizar
 
 Configuracion de Visual Studio Code
+
 1.-Abrimos Visual Studio Code
 
 2.-Seleccionamos la opcion de extensiones al lado izquierdo de la pantalla
@@ -53,6 +56,7 @@ Configuracion de Visual Studio Code
 ![](./Imagen_05.png)
 
 Instalación de git. conectado a tu cuenta de GitHub y VSC.
+
 1-Ingresamos en nuestro navegador Git
 
 2.-Seleccionamos el enlace de Git
@@ -84,6 +88,7 @@ Instalación de git. conectado a tu cuenta de GitHub y VSC.
 13.-Por ultimo seleccionamos instalar y cuando termine finalizar
 
 Configuracion de Git
+
 1.-Abrimos Ejecutar presionando la Tecla de windows + R y insertamos cmd
 
 2.-Ejecutamos el comando con nuestro Usuario: git config --global user.name "USUARIO"
