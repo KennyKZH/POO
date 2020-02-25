@@ -1,0 +1,4 @@
+C:\Users\kenny\Pelicula\obj\Debug\netcoreapp2.1\Pelicula.csprojAssemblyReference.cache
+C:\Users\kenny\Pelicula\obj\Debug\netcoreapp2.1\Pelicula.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Pelicula\obj\Debug\netcoreapp2.1\Pelicula.AssemblyInfoInputs.cache
+C:\Users\kenny\Pelicula\obj\Debug\netcoreapp2.1\Pelicula.AssemblyInfo.cs
