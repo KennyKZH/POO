@@ -1,0 +1,11 @@
+C:\Users\kenny\actores\bin\Debug\netcoreapp2.1\actores.deps.json
+C:\Users\kenny\actores\bin\Debug\netcoreapp2.1\actores.runtimeconfig.json
+C:\Users\kenny\actores\bin\Debug\netcoreapp2.1\actores.runtimeconfig.dev.json
+C:\Users\kenny\actores\bin\Debug\netcoreapp2.1\actores.dll
+C:\Users\kenny\actores\bin\Debug\netcoreapp2.1\actores.pdb
+C:\Users\kenny\actores\obj\Debug\netcoreapp2.1\actores.csprojAssemblyReference.cache
+C:\Users\kenny\actores\obj\Debug\netcoreapp2.1\actores.csproj.CoreCompileInputs.cache
+C:\Users\kenny\actores\obj\Debug\netcoreapp2.1\actores.AssemblyInfoInputs.cache
+C:\Users\kenny\actores\obj\Debug\netcoreapp2.1\actores.AssemblyInfo.cs
+C:\Users\kenny\actores\obj\Debug\netcoreapp2.1\actores.dll
+C:\Users\kenny\actores\obj\Debug\netcoreapp2.1\actores.pdb
